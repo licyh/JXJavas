@@ -26,7 +26,6 @@ public class JXXmlParser {
 		
 	}
 	
-	
 	public void run() {
 		//System.out.println("workingDir = " + workingDir);
 		File workingdir = new File(workingDir);
