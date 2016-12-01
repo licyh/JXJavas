@@ -15,6 +15,11 @@ import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 import org.xml.sax.SAXException;
 
+/***
+ * @author xincafe
+ * @description this class is used for parsing XML-based documents
+ * @date 8/15/2016
+ */
 public class JXXmlParser {
 
 	String inputDir = "input\\JXXmlParser";
